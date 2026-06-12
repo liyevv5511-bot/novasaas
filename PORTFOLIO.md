@@ -24,8 +24,8 @@ It includes:
 
 Tech: React 18, Vite, Tailwind CSS, Framer Motion, Recharts, React Router.
 
-🔗 Live demo: <PASTE_LIVE_LINK_HERE>
-💻 Source code: <PASTE_GITHUB_LINK_HERE>
+🔗 Live demo: https://liyevv5511-bot.github.io/novasaas/
+💻 Source code: https://github.com/liyevv5511-bot/novasaas
 
 ## Skills / tags to add
 React · JavaScript · Tailwind CSS · Frontend Development · Responsive Web Design ·
